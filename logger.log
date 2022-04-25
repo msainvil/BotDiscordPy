@@ -1,0 +1,823 @@
+DEBUG:discord.gateway:Keeping shard ID None websocket alive with sequence 15.
+DEBUG:discord.client:Dispatching event socket_raw_receive
+DEBUG:discord.gateway:For Shard ID None: WebSocket Event: {'t': None, 's': None, 'op': 11, 'd': None}
+DEBUG:discord.client:Dispatching event socket_response
+DEBUG:discord.gateway:Keeping shard ID None websocket alive with sequence 15.
+DEBUG:discord.client:Dispatching event socket_raw_receive
+DEBUG:discord.gateway:For Shard ID None: WebSocket Event: {'t': None, 's': None, 'op': 11, 'd': None}
+DEBUG:discord.client:Dispatching event socket_response
+DEBUG:discord.gateway:Keeping shard ID None websocket alive with sequence 15.
+DEBUG:discord.client:Dispatching event socket_raw_receive
+DEBUG:discord.gateway:For Shard ID None: WebSocket Event: {'t': None, 's': None, 'op': 11, 'd': None}
+DEBUG:discord.client:Dispatching event socket_response
+DEBUG:discord.gateway:Keeping shard ID None websocket alive with sequence 15.
+DEBUG:discord.client:Dispatching event socket_raw_receive
+DEBUG:discord.gateway:For Shard ID None: WebSocket Event: {'t': None, 's': None, 'op': 11, 'd': None}
+DEBUG:discord.client:Dispatching event socket_response
+DEBUG:discord.gateway:Keeping shard ID None websocket alive with sequence 15.
+DEBUG:discord.client:Dispatching event socket_raw_receive
+DEBUG:discord.gateway:For Shard ID None: WebSocket Event: {'t': None, 's': None, 'op': 11, 'd': None}
+DEBUG:discord.client:Dispatching event socket_response
+DEBUG:discord.gateway:Keeping shard ID None websocket alive with sequence 15.
+DEBUG:discord.client:Dispatching event socket_raw_receive
+DEBUG:discord.gateway:For Shard ID None: WebSocket Event: {'t': None, 's': None, 'op': 11, 'd': None}
+DEBUG:discord.client:Dispatching event socket_response
+DEBUG:discord.gateway:Keeping shard ID None websocket alive with sequence 15.
+DEBUG:discord.client:Dispatching event socket_raw_receive
+DEBUG:discord.gateway:For Shard ID None: WebSocket Event: {'t': None, 's': None, 'op': 11, 'd': None}
+DEBUG:discord.client:Dispatching event socket_response
+DEBUG:discord.gateway:Keeping shard ID None websocket alive with sequence 15.
+DEBUG:discord.client:Dispatching event socket_raw_receive
+DEBUG:discord.gateway:For Shard ID None: WebSocket Event: {'t': None, 's': None, 'op': 11, 'd': None}
+DEBUG:discord.client:Dispatching event socket_response
+DEBUG:discord.gateway:Keeping shard ID None websocket alive with sequence 15.
+DEBUG:discord.client:Dispatching event socket_raw_receive
+DEBUG:discord.gateway:For Shard ID None: WebSocket Event: {'t': None, 's': None, 'op': 11, 'd': None}
+DEBUG:discord.client:Dispatching event socket_response
+DEBUG:discord.gateway:Keeping shard ID None websocket alive with sequence 15.
+DEBUG:discord.client:Dispatching event socket_raw_receive
+DEBUG:discord.gateway:For Shard ID None: WebSocket Event: {'t': None, 's': None, 'op': 11, 'd': None}
+DEBUG:discord.client:Dispatching event socket_response
+DEBUG:discord.gateway:Keeping shard ID None websocket alive with sequence 15.
+DEBUG:discord.client:Dispatching event socket_raw_receive
+DEBUG:discord.gateway:For Shard ID None: WebSocket Event: {'t': None, 's': None, 'op': 11, 'd': None}
+DEBUG:discord.client:Dispatching event socket_response
+DEBUG:discord.gateway:Keeping shard ID None websocket alive with sequence 15.
+DEBUG:discord.client:Dispatching event socket_raw_receive
+DEBUG:discord.gateway:For Shard ID None: WebSocket Event: {'t': None, 's': None, 'op': 11, 'd': None}
+DEBUG:discord.client:Dispatching event socket_response
+DEBUG:discord.gateway:Keeping shard ID None websocket alive with sequence 15.
+DEBUG:discord.client:Dispatching event socket_raw_receive
+DEBUG:discord.gateway:For Shard ID None: WebSocket Event: {'t': None, 's': None, 'op': 11, 'd': None}
+DEBUG:discord.client:Dispatching event socket_response
+DEBUG:discord.gateway:Keeping shard ID None websocket alive with sequence 15.
+DEBUG:discord.client:Dispatching event socket_raw_receive
+DEBUG:discord.gateway:For Shard ID None: WebSocket Event: {'t': None, 's': None, 'op': 11, 'd': None}
+DEBUG:discord.client:Dispatching event socket_response
+DEBUG:discord.gateway:Keeping shard ID None websocket alive with sequence 15.
+DEBUG:discord.client:Dispatching event socket_raw_receive
+DEBUG:discord.gateway:For Shard ID None: WebSocket Event: {'t': None, 's': None, 'op': 11, 'd': None}
+DEBUG:discord.client:Dispatching event socket_response
+DEBUG:discord.gateway:Keeping shard ID None websocket alive with sequence 15.
+DEBUG:discord.client:Dispatching event socket_raw_receive
+DEBUG:discord.gateway:For Shard ID None: WebSocket Event: {'t': None, 's': None, 'op': 11, 'd': None}
+DEBUG:discord.client:Dispatching event socket_response
+DEBUG:discord.gateway:Keeping shard ID None websocket alive with sequence 15.
+DEBUG:discord.client:Dispatching event socket_raw_receive
+DEBUG:discord.gateway:For Shard ID None: WebSocket Event: {'t': None, 's': None, 'op': 11, 'd': None}
+DEBUG:discord.client:Dispatching event socket_response
+DEBUG:discord.gateway:Keeping shard ID None websocket alive with sequence 15.
+DEBUG:discord.client:Dispatching event socket_raw_receive
+DEBUG:discord.gateway:For Shard ID None: WebSocket Event: {'t': None, 's': None, 'op': 11, 'd': None}
+DEBUG:discord.client:Dispatching event socket_response
+DEBUG:discord.gateway:Keeping shard ID None websocket alive with sequence 15.
+DEBUG:discord.client:Dispatching event socket_raw_receive
+DEBUG:discord.gateway:For Shard ID None: WebSocket Event: {'t': None, 's': None, 'op': 11, 'd': None}
+DEBUG:discord.client:Dispatching event socket_response
+DEBUG:discord.gateway:Keeping shard ID None websocket alive with sequence 15.
+DEBUG:discord.client:Dispatching event socket_raw_receive
+DEBUG:discord.gateway:For Shard ID None: WebSocket Event: {'t': None, 's': None, 'op': 11, 'd': None}
+DEBUG:discord.client:Dispatching event socket_response
+DEBUG:discord.gateway:Keeping shard ID None websocket alive with sequence 15.
+DEBUG:discord.client:Dispatching event socket_raw_receive
+DEBUG:discord.gateway:For Shard ID None: WebSocket Event: {'t': None, 's': None, 'op': 11, 'd': None}
+DEBUG:discord.client:Dispatching event socket_response
+DEBUG:discord.gateway:Keeping shard ID None websocket alive with sequence 15.
+DEBUG:discord.client:Dispatching event socket_raw_receive
+DEBUG:discord.gateway:For Shard ID None: WebSocket Event: {'t': None, 's': None, 'op': 11, 'd': None}
+DEBUG:discord.client:Dispatching event socket_response
+DEBUG:discord.gateway:Keeping shard ID None websocket alive with sequence 15.
+DEBUG:discord.client:Dispatching event socket_raw_receive
+DEBUG:discord.gateway:For Shard ID None: WebSocket Event: {'t': None, 's': None, 'op': 11, 'd': None}
+DEBUG:discord.client:Dispatching event socket_response
+DEBUG:discord.gateway:Keeping shard ID None websocket alive with sequence 15.
+DEBUG:discord.client:Dispatching event socket_raw_receive
+DEBUG:discord.gateway:For Shard ID None: WebSocket Event: {'t': None, 's': None, 'op': 11, 'd': None}
+DEBUG:discord.client:Dispatching event socket_response
+DEBUG:discord.gateway:Keeping shard ID None websocket alive with sequence 15.
+DEBUG:discord.client:Dispatching event socket_raw_receive
+DEBUG:discord.gateway:For Shard ID None: WebSocket Event: {'t': None, 's': None, 'op': 11, 'd': None}
+DEBUG:discord.client:Dispatching event socket_response
+DEBUG:discord.gateway:Keeping shard ID None websocket alive with sequence 15.
+DEBUG:discord.client:Dispatching event socket_raw_receive
+DEBUG:discord.gateway:For Shard ID None: WebSocket Event: {'t': None, 's': None, 'op': 11, 'd': None}
+DEBUG:discord.client:Dispatching event socket_response
+DEBUG:discord.gateway:Keeping shard ID None websocket alive with sequence 15.
+DEBUG:discord.client:Dispatching event socket_raw_receive
+DEBUG:discord.gateway:For Shard ID None: WebSocket Event: {'t': None, 's': None, 'op': 11, 'd': None}
+DEBUG:discord.client:Dispatching event socket_response
+DEBUG:discord.gateway:Keeping shard ID None websocket alive with sequence 15.
+DEBUG:discord.client:Dispatching event socket_raw_receive
+DEBUG:discord.gateway:For Shard ID None: WebSocket Event: {'t': None, 's': None, 'op': 11, 'd': None}
+DEBUG:discord.client:Dispatching event socket_response
+DEBUG:discord.gateway:Keeping shard ID None websocket alive with sequence 15.
+DEBUG:discord.client:Dispatching event socket_raw_receive
+DEBUG:discord.gateway:For Shard ID None: WebSocket Event: {'t': None, 's': None, 'op': 11, 'd': None}
+DEBUG:discord.client:Dispatching event socket_response
+DEBUG:discord.gateway:Keeping shard ID None websocket alive with sequence 15.
+DEBUG:discord.client:Dispatching event socket_raw_receive
+DEBUG:discord.gateway:For Shard ID None: WebSocket Event: {'t': None, 's': None, 'op': 11, 'd': None}
+DEBUG:discord.client:Dispatching event socket_response
+DEBUG:discord.gateway:Keeping shard ID None websocket alive with sequence 15.
+DEBUG:discord.client:Dispatching event socket_raw_receive
+DEBUG:discord.gateway:For Shard ID None: WebSocket Event: {'t': None, 's': None, 'op': 11, 'd': None}
+DEBUG:discord.client:Dispatching event socket_response
+DEBUG:discord.gateway:Keeping shard ID None websocket alive with sequence 15.
+DEBUG:discord.client:Dispatching event socket_raw_receive
+DEBUG:discord.gateway:For Shard ID None: WebSocket Event: {'t': None, 's': None, 'op': 11, 'd': None}
+DEBUG:discord.client:Dispatching event socket_response
+DEBUG:discord.gateway:Keeping shard ID None websocket alive with sequence 15.
+DEBUG:discord.client:Dispatching event socket_raw_receive
+DEBUG:discord.gateway:For Shard ID None: WebSocket Event: {'t': None, 's': None, 'op': 11, 'd': None}
+DEBUG:discord.client:Dispatching event socket_response
+DEBUG:discord.gateway:Keeping shard ID None websocket alive with sequence 15.
+DEBUG:discord.client:Dispatching event socket_raw_receive
+DEBUG:discord.gateway:For Shard ID None: WebSocket Event: {'t': None, 's': None, 'op': 11, 'd': None}
+DEBUG:discord.client:Dispatching event socket_response
+DEBUG:discord.gateway:Keeping shard ID None websocket alive with sequence 15.
+DEBUG:discord.client:Dispatching event socket_raw_receive
+DEBUG:discord.gateway:For Shard ID None: WebSocket Event: {'t': None, 's': None, 'op': 11, 'd': None}
+DEBUG:discord.client:Dispatching event socket_response
+DEBUG:discord.gateway:Keeping shard ID None websocket alive with sequence 15.
+DEBUG:discord.client:Dispatching event socket_raw_receive
+DEBUG:discord.gateway:For Shard ID None: WebSocket Event: {'t': None, 's': None, 'op': 11, 'd': None}
+DEBUG:discord.client:Dispatching event socket_response
+DEBUG:discord.gateway:Keeping shard ID None websocket alive with sequence 15.
+DEBUG:discord.client:Dispatching event socket_raw_receive
+DEBUG:discord.gateway:For Shard ID None: WebSocket Event: {'t': None, 's': None, 'op': 11, 'd': None}
+DEBUG:discord.client:Dispatching event socket_response
+DEBUG:discord.gateway:Keeping shard ID None websocket alive with sequence 15.
+DEBUG:discord.client:Dispatching event socket_raw_receive
+DEBUG:discord.gateway:For Shard ID None: WebSocket Event: {'t': None, 's': None, 'op': 11, 'd': None}
+DEBUG:discord.client:Dispatching event socket_response
+DEBUG:discord.gateway:Keeping shard ID None websocket alive with sequence 15.
+DEBUG:discord.client:Dispatching event socket_raw_receive
+DEBUG:discord.gateway:For Shard ID None: WebSocket Event: {'t': None, 's': None, 'op': 11, 'd': None}
+DEBUG:discord.client:Dispatching event socket_response
+DEBUG:discord.gateway:Keeping shard ID None websocket alive with sequence 15.
+DEBUG:discord.client:Dispatching event socket_raw_receive
+DEBUG:discord.gateway:For Shard ID None: WebSocket Event: {'t': None, 's': None, 'op': 11, 'd': None}
+DEBUG:discord.client:Dispatching event socket_response
+DEBUG:discord.gateway:Keeping shard ID None websocket alive with sequence 15.
+DEBUG:discord.client:Dispatching event socket_raw_receive
+DEBUG:discord.gateway:For Shard ID None: WebSocket Event: {'t': None, 's': None, 'op': 11, 'd': None}
+DEBUG:discord.client:Dispatching event socket_response
+DEBUG:discord.gateway:Keeping shard ID None websocket alive with sequence 15.
+DEBUG:discord.client:Dispatching event socket_raw_receive
+DEBUG:discord.gateway:For Shard ID None: WebSocket Event: {'t': None, 's': None, 'op': 11, 'd': None}
+DEBUG:discord.client:Dispatching event socket_response
+DEBUG:discord.gateway:Keeping shard ID None websocket alive with sequence 15.
+DEBUG:discord.client:Dispatching event socket_raw_receive
+DEBUG:discord.gateway:For Shard ID None: WebSocket Event: {'t': None, 's': None, 'op': 11, 'd': None}
+DEBUG:discord.client:Dispatching event socket_response
+DEBUG:discord.gateway:Keeping shard ID None websocket alive with sequence 15.
+DEBUG:discord.client:Dispatching event socket_raw_receive
+DEBUG:discord.gateway:For Shard ID None: WebSocket Event: {'t': None, 's': None, 'op': 11, 'd': None}
+DEBUG:discord.client:Dispatching event socket_response
+DEBUG:discord.gateway:Keeping shard ID None websocket alive with sequence 15.
+DEBUG:discord.client:Dispatching event socket_raw_receive
+DEBUG:discord.gateway:For Shard ID None: WebSocket Event: {'t': None, 's': None, 'op': 11, 'd': None}
+DEBUG:discord.client:Dispatching event socket_response
+DEBUG:discord.gateway:Keeping shard ID None websocket alive with sequence 15.
+DEBUG:discord.client:Dispatching event socket_raw_receive
+DEBUG:discord.gateway:For Shard ID None: WebSocket Event: {'t': None, 's': None, 'op': 11, 'd': None}
+DEBUG:discord.client:Dispatching event socket_response
+DEBUG:discord.gateway:Keeping shard ID None websocket alive with sequence 15.
+DEBUG:discord.client:Dispatching event socket_raw_receive
+DEBUG:discord.gateway:For Shard ID None: WebSocket Event: {'t': None, 's': None, 'op': 11, 'd': None}
+DEBUG:discord.client:Dispatching event socket_response
+DEBUG:discord.gateway:Keeping shard ID None websocket alive with sequence 15.
+DEBUG:discord.client:Dispatching event socket_raw_receive
+DEBUG:discord.gateway:For Shard ID None: WebSocket Event: {'t': None, 's': None, 'op': 11, 'd': None}
+DEBUG:discord.client:Dispatching event socket_response
+DEBUG:discord.gateway:Keeping shard ID None websocket alive with sequence 15.
+DEBUG:discord.client:Dispatching event socket_raw_receive
+DEBUG:discord.gateway:For Shard ID None: WebSocket Event: {'t': None, 's': None, 'op': 11, 'd': None}
+DEBUG:discord.client:Dispatching event socket_response
+DEBUG:discord.gateway:Keeping shard ID None websocket alive with sequence 15.
+DEBUG:discord.client:Dispatching event socket_raw_receive
+DEBUG:discord.gateway:For Shard ID None: WebSocket Event: {'t': None, 's': None, 'op': 11, 'd': None}
+DEBUG:discord.client:Dispatching event socket_response
+DEBUG:discord.gateway:Keeping shard ID None websocket alive with sequence 15.
+DEBUG:discord.client:Dispatching event socket_raw_receive
+DEBUG:discord.gateway:For Shard ID None: WebSocket Event: {'t': None, 's': None, 'op': 11, 'd': None}
+DEBUG:discord.client:Dispatching event socket_response
+DEBUG:discord.gateway:Keeping shard ID None websocket alive with sequence 15.
+DEBUG:discord.client:Dispatching event socket_raw_receive
+DEBUG:discord.gateway:For Shard ID None: WebSocket Event: {'t': None, 's': None, 'op': 11, 'd': None}
+DEBUG:discord.client:Dispatching event socket_response
+DEBUG:discord.gateway:Keeping shard ID None websocket alive with sequence 15.
+DEBUG:discord.client:Dispatching event socket_raw_receive
+DEBUG:discord.gateway:For Shard ID None: WebSocket Event: {'t': None, 's': None, 'op': 11, 'd': None}
+DEBUG:discord.client:Dispatching event socket_response
+DEBUG:discord.gateway:Keeping shard ID None websocket alive with sequence 15.
+DEBUG:discord.client:Dispatching event socket_raw_receive
+DEBUG:discord.gateway:For Shard ID None: WebSocket Event: {'t': None, 's': None, 'op': 11, 'd': None}
+DEBUG:discord.client:Dispatching event socket_response
+DEBUG:discord.gateway:Keeping shard ID None websocket alive with sequence 15.
+DEBUG:discord.client:Dispatching event socket_raw_receive
+DEBUG:discord.gateway:For Shard ID None: WebSocket Event: {'t': None, 's': None, 'op': 11, 'd': None}
+DEBUG:discord.client:Dispatching event socket_response
+DEBUG:discord.gateway:Keeping shard ID None websocket alive with sequence 15.
+DEBUG:discord.client:Dispatching event socket_raw_receive
+DEBUG:discord.gateway:For Shard ID None: WebSocket Event: {'t': None, 's': None, 'op': 11, 'd': None}
+DEBUG:discord.client:Dispatching event socket_response
+DEBUG:discord.gateway:Keeping shard ID None websocket alive with sequence 15.
+DEBUG:discord.client:Dispatching event socket_raw_receive
+DEBUG:discord.gateway:For Shard ID None: WebSocket Event: {'t': None, 's': None, 'op': 11, 'd': None}
+DEBUG:discord.client:Dispatching event socket_response
+DEBUG:discord.gateway:Keeping shard ID None websocket alive with sequence 15.
+DEBUG:discord.client:Dispatching event socket_raw_receive
+DEBUG:discord.gateway:For Shard ID None: WebSocket Event: {'t': None, 's': None, 'op': 11, 'd': None}
+DEBUG:discord.client:Dispatching event socket_response
+DEBUG:discord.gateway:Keeping shard ID None websocket alive with sequence 15.
+DEBUG:discord.client:Dispatching event socket_raw_receive
+DEBUG:discord.gateway:For Shard ID None: WebSocket Event: {'t': None, 's': None, 'op': 11, 'd': None}
+DEBUG:discord.client:Dispatching event socket_response
+DEBUG:discord.gateway:Keeping shard ID None websocket alive with sequence 15.
+DEBUG:discord.client:Dispatching event socket_raw_receive
+DEBUG:discord.gateway:For Shard ID None: WebSocket Event: {'t': None, 's': None, 'op': 11, 'd': None}
+DEBUG:discord.client:Dispatching event socket_response
+DEBUG:discord.gateway:Keeping shard ID None websocket alive with sequence 15.
+DEBUG:discord.client:Dispatching event socket_raw_receive
+DEBUG:discord.gateway:For Shard ID None: WebSocket Event: {'t': None, 's': None, 'op': 11, 'd': None}
+DEBUG:discord.client:Dispatching event socket_response
+DEBUG:discord.gateway:Keeping shard ID None websocket alive with sequence 15.
+DEBUG:discord.client:Dispatching event socket_raw_receive
+DEBUG:discord.gateway:For Shard ID None: WebSocket Event: {'t': None, 's': None, 'op': 11, 'd': None}
+DEBUG:discord.client:Dispatching event socket_response
+DEBUG:discord.gateway:Keeping shard ID None websocket alive with sequence 15.
+DEBUG:discord.client:Dispatching event socket_raw_receive
+DEBUG:discord.gateway:For Shard ID None: WebSocket Event: {'t': None, 's': None, 'op': 11, 'd': None}
+DEBUG:discord.client:Dispatching event socket_response
+DEBUG:discord.gateway:Keeping shard ID None websocket alive with sequence 15.
+DEBUG:discord.client:Dispatching event socket_raw_receive
+DEBUG:discord.gateway:For Shard ID None: WebSocket Event: {'t': None, 's': None, 'op': 11, 'd': None}
+DEBUG:discord.client:Dispatching event socket_response
+DEBUG:discord.gateway:Keeping shard ID None websocket alive with sequence 15.
+DEBUG:discord.client:Dispatching event socket_raw_receive
+DEBUG:discord.gateway:For Shard ID None: WebSocket Event: {'t': None, 's': None, 'op': 11, 'd': None}
+DEBUG:discord.client:Dispatching event socket_response
+DEBUG:discord.gateway:Keeping shard ID None websocket alive with sequence 15.
+DEBUG:discord.client:Dispatching event socket_raw_receive
+DEBUG:discord.gateway:For Shard ID None: WebSocket Event: {'t': None, 's': None, 'op': 11, 'd': None}
+DEBUG:discord.client:Dispatching event socket_response
+DEBUG:discord.gateway:Keeping shard ID None websocket alive with sequence 15.
+DEBUG:discord.client:Dispatching event socket_raw_receive
+DEBUG:discord.gateway:For Shard ID None: WebSocket Event: {'t': None, 's': None, 'op': 11, 'd': None}
+DEBUG:discord.client:Dispatching event socket_response
+DEBUG:discord.gateway:Keeping shard ID None websocket alive with sequence 15.
+DEBUG:discord.client:Dispatching event socket_raw_receive
+DEBUG:discord.gateway:For Shard ID None: WebSocket Event: {'t': None, 's': None, 'op': 11, 'd': None}
+DEBUG:discord.client:Dispatching event socket_response
+DEBUG:discord.gateway:Keeping shard ID None websocket alive with sequence 15.
+DEBUG:discord.client:Dispatching event socket_raw_receive
+DEBUG:discord.gateway:For Shard ID None: WebSocket Event: {'t': None, 's': None, 'op': 11, 'd': None}
+DEBUG:discord.client:Dispatching event socket_response
+DEBUG:discord.gateway:Keeping shard ID None websocket alive with sequence 15.
+DEBUG:discord.client:Dispatching event socket_raw_receive
+DEBUG:discord.gateway:For Shard ID None: WebSocket Event: {'t': None, 's': None, 'op': 11, 'd': None}
+DEBUG:discord.client:Dispatching event socket_response
+DEBUG:discord.gateway:Keeping shard ID None websocket alive with sequence 15.
+DEBUG:discord.client:Dispatching event socket_raw_receive
+DEBUG:discord.gateway:For Shard ID None: WebSocket Event: {'t': None, 's': None, 'op': 11, 'd': None}
+DEBUG:discord.client:Dispatching event socket_response
+DEBUG:discord.gateway:Keeping shard ID None websocket alive with sequence 15.
+DEBUG:discord.client:Dispatching event socket_raw_receive
+DEBUG:discord.gateway:For Shard ID None: WebSocket Event: {'t': None, 's': None, 'op': 11, 'd': None}
+DEBUG:discord.client:Dispatching event socket_response
+DEBUG:discord.gateway:Keeping shard ID None websocket alive with sequence 15.
+DEBUG:discord.client:Dispatching event socket_raw_receive
+DEBUG:discord.gateway:For Shard ID None: WebSocket Event: {'t': None, 's': None, 'op': 11, 'd': None}
+DEBUG:discord.client:Dispatching event socket_response
+DEBUG:discord.gateway:Keeping shard ID None websocket alive with sequence 15.
+DEBUG:discord.client:Dispatching event socket_raw_receive
+DEBUG:discord.gateway:For Shard ID None: WebSocket Event: {'t': None, 's': None, 'op': 11, 'd': None}
+DEBUG:discord.client:Dispatching event socket_response
+DEBUG:discord.gateway:Keeping shard ID None websocket alive with sequence 15.
+DEBUG:discord.client:Dispatching event socket_raw_receive
+DEBUG:discord.gateway:For Shard ID None: WebSocket Event: {'t': None, 's': None, 'op': 11, 'd': None}
+DEBUG:discord.client:Dispatching event socket_response
+DEBUG:discord.gateway:Keeping shard ID None websocket alive with sequence 15.
+DEBUG:discord.client:Dispatching event socket_raw_receive
+DEBUG:discord.gateway:For Shard ID None: WebSocket Event: {'t': None, 's': None, 'op': 11, 'd': None}
+DEBUG:discord.client:Dispatching event socket_response
+DEBUG:discord.gateway:Keeping shard ID None websocket alive with sequence 15.
+DEBUG:discord.client:Dispatching event socket_raw_receive
+DEBUG:discord.gateway:For Shard ID None: WebSocket Event: {'t': None, 's': None, 'op': 11, 'd': None}
+DEBUG:discord.client:Dispatching event socket_response
+DEBUG:discord.gateway:Keeping shard ID None websocket alive with sequence 15.
+DEBUG:discord.client:Dispatching event socket_raw_receive
+DEBUG:discord.gateway:For Shard ID None: WebSocket Event: {'t': None, 's': None, 'op': 11, 'd': None}
+DEBUG:discord.client:Dispatching event socket_response
+DEBUG:discord.gateway:Keeping shard ID None websocket alive with sequence 15.
+DEBUG:discord.client:Dispatching event socket_raw_receive
+DEBUG:discord.gateway:For Shard ID None: WebSocket Event: {'t': None, 's': None, 'op': 11, 'd': None}
+DEBUG:discord.client:Dispatching event socket_response
+DEBUG:discord.gateway:Keeping shard ID None websocket alive with sequence 15.
+DEBUG:discord.client:Dispatching event socket_raw_receive
+DEBUG:discord.gateway:For Shard ID None: WebSocket Event: {'t': None, 's': None, 'op': 11, 'd': None}
+DEBUG:discord.client:Dispatching event socket_response
+DEBUG:discord.gateway:Keeping shard ID None websocket alive with sequence 15.
+DEBUG:discord.client:Dispatching event socket_raw_receive
+DEBUG:discord.gateway:For Shard ID None: WebSocket Event: {'t': None, 's': None, 'op': 11, 'd': None}
+DEBUG:discord.client:Dispatching event socket_response
+DEBUG:discord.gateway:Keeping shard ID None websocket alive with sequence 15.
+DEBUG:discord.client:Dispatching event socket_raw_receive
+DEBUG:discord.gateway:For Shard ID None: WebSocket Event: {'t': None, 's': None, 'op': 11, 'd': None}
+DEBUG:discord.client:Dispatching event socket_response
+DEBUG:discord.gateway:Keeping shard ID None websocket alive with sequence 15.
+DEBUG:discord.client:Dispatching event socket_raw_receive
+DEBUG:discord.gateway:For Shard ID None: WebSocket Event: {'t': None, 's': None, 'op': 11, 'd': None}
+DEBUG:discord.client:Dispatching event socket_response
+DEBUG:discord.gateway:Keeping shard ID None websocket alive with sequence 15.
+DEBUG:discord.client:Dispatching event socket_raw_receive
+DEBUG:discord.gateway:For Shard ID None: WebSocket Event: {'t': None, 's': None, 'op': 11, 'd': None}
+DEBUG:discord.client:Dispatching event socket_response
+DEBUG:discord.gateway:Keeping shard ID None websocket alive with sequence 15.
+DEBUG:discord.client:Dispatching event socket_raw_receive
+DEBUG:discord.gateway:For Shard ID None: WebSocket Event: {'t': None, 's': None, 'op': 11, 'd': None}
+DEBUG:discord.client:Dispatching event socket_response
+DEBUG:discord.gateway:Keeping shard ID None websocket alive with sequence 15.
+DEBUG:discord.client:Dispatching event socket_raw_receive
+DEBUG:discord.gateway:For Shard ID None: WebSocket Event: {'t': None, 's': None, 'op': 11, 'd': None}
+DEBUG:discord.client:Dispatching event socket_response
+DEBUG:discord.gateway:Keeping shard ID None websocket alive with sequence 15.
+DEBUG:discord.client:Dispatching event socket_raw_receive
+DEBUG:discord.gateway:For Shard ID None: WebSocket Event: {'t': None, 's': None, 'op': 11, 'd': None}
+DEBUG:discord.client:Dispatching event socket_response
+DEBUG:discord.gateway:Keeping shard ID None websocket alive with sequence 15.
+DEBUG:discord.client:Dispatching event socket_raw_receive
+DEBUG:discord.gateway:For Shard ID None: WebSocket Event: {'t': None, 's': None, 'op': 11, 'd': None}
+DEBUG:discord.client:Dispatching event socket_response
+DEBUG:discord.gateway:Keeping shard ID None websocket alive with sequence 15.
+DEBUG:discord.client:Dispatching event socket_raw_receive
+DEBUG:discord.gateway:For Shard ID None: WebSocket Event: {'t': None, 's': None, 'op': 11, 'd': None}
+DEBUG:discord.client:Dispatching event socket_response
+DEBUG:discord.gateway:Keeping shard ID None websocket alive with sequence 15.
+DEBUG:discord.client:Dispatching event socket_raw_receive
+DEBUG:discord.gateway:For Shard ID None: WebSocket Event: {'t': None, 's': None, 'op': 11, 'd': None}
+DEBUG:discord.client:Dispatching event socket_response
+DEBUG:discord.gateway:Keeping shard ID None websocket alive with sequence 15.
+DEBUG:discord.client:Dispatching event socket_raw_receive
+DEBUG:discord.gateway:For Shard ID None: WebSocket Event: {'t': None, 's': None, 'op': 11, 'd': None}
+DEBUG:discord.client:Dispatching event socket_response
+DEBUG:discord.gateway:Keeping shard ID None websocket alive with sequence 15.
+DEBUG:discord.client:Dispatching event socket_raw_receive
+DEBUG:discord.gateway:For Shard ID None: WebSocket Event: {'t': None, 's': None, 'op': 11, 'd': None}
+DEBUG:discord.client:Dispatching event socket_response
+DEBUG:discord.gateway:Keeping shard ID None websocket alive with sequence 15.
+DEBUG:discord.client:Dispatching event socket_raw_receive
+DEBUG:discord.gateway:For Shard ID None: WebSocket Event: {'t': None, 's': None, 'op': 11, 'd': None}
+DEBUG:discord.client:Dispatching event socket_response
+DEBUG:discord.gateway:Keeping shard ID None websocket alive with sequence 15.
+DEBUG:discord.client:Dispatching event socket_raw_receive
+DEBUG:discord.gateway:For Shard ID None: WebSocket Event: {'t': None, 's': None, 'op': 11, 'd': None}
+DEBUG:discord.client:Dispatching event socket_response
+DEBUG:discord.gateway:Keeping shard ID None websocket alive with sequence 15.
+DEBUG:discord.client:Dispatching event socket_raw_receive
+DEBUG:discord.gateway:For Shard ID None: WebSocket Event: {'t': None, 's': None, 'op': 11, 'd': None}
+DEBUG:discord.client:Dispatching event socket_response
+DEBUG:discord.gateway:Keeping shard ID None websocket alive with sequence 15.
+DEBUG:discord.client:Dispatching event socket_raw_receive
+DEBUG:discord.gateway:For Shard ID None: WebSocket Event: {'t': None, 's': None, 'op': 11, 'd': None}
+DEBUG:discord.client:Dispatching event socket_response
+DEBUG:discord.gateway:Keeping shard ID None websocket alive with sequence 15.
+DEBUG:discord.client:Dispatching event socket_raw_receive
+DEBUG:discord.gateway:For Shard ID None: WebSocket Event: {'t': None, 's': None, 'op': 11, 'd': None}
+DEBUG:discord.client:Dispatching event socket_response
+DEBUG:discord.gateway:Keeping shard ID None websocket alive with sequence 15.
+DEBUG:discord.client:Dispatching event socket_raw_receive
+DEBUG:discord.gateway:For Shard ID None: WebSocket Event: {'t': None, 's': None, 'op': 11, 'd': None}
+DEBUG:discord.client:Dispatching event socket_response
+DEBUG:discord.gateway:Keeping shard ID None websocket alive with sequence 15.
+DEBUG:discord.client:Dispatching event socket_raw_receive
+DEBUG:discord.gateway:For Shard ID None: WebSocket Event: {'t': None, 's': None, 'op': 11, 'd': None}
+DEBUG:discord.client:Dispatching event socket_response
+DEBUG:discord.gateway:Keeping shard ID None websocket alive with sequence 15.
+DEBUG:discord.client:Dispatching event socket_raw_receive
+DEBUG:discord.gateway:For Shard ID None: WebSocket Event: {'t': None, 's': None, 'op': 11, 'd': None}
+DEBUG:discord.client:Dispatching event socket_response
+DEBUG:discord.gateway:Keeping shard ID None websocket alive with sequence 15.
+DEBUG:discord.client:Dispatching event socket_raw_receive
+DEBUG:discord.gateway:For Shard ID None: WebSocket Event: {'t': None, 's': None, 'op': 11, 'd': None}
+DEBUG:discord.client:Dispatching event socket_response
+DEBUG:discord.gateway:Keeping shard ID None websocket alive with sequence 15.
+DEBUG:discord.client:Dispatching event socket_raw_receive
+DEBUG:discord.gateway:For Shard ID None: WebSocket Event: {'t': None, 's': None, 'op': 11, 'd': None}
+DEBUG:discord.client:Dispatching event socket_response
+DEBUG:discord.gateway:Keeping shard ID None websocket alive with sequence 15.
+DEBUG:discord.client:Dispatching event socket_raw_receive
+DEBUG:discord.gateway:For Shard ID None: WebSocket Event: {'t': None, 's': None, 'op': 11, 'd': None}
+DEBUG:discord.client:Dispatching event socket_response
+INFO:discord.client:Received signal to terminate bot and event loop.
+INFO:discord.client:Cleaning up tasks.
+INFO:discord.client:Cleaning up after 1 tasks.
+INFO:discord.client:All tasks finished cancelling.
+INFO:discord.client:Closing the event loop.
+WARNING:discord.client:PyNaCl is not installed, voice will NOT be supported
+INFO:discord.client:logging in using static token
+INFO:discord.gateway:Shard ID None has sent the IDENTIFY payload.
+INFO:discord.gateway:Shard ID None has connected to Gateway: ["gateway-prd-main-zksz",{"micros":191229,"calls":["discord-sessions-blue-prd-2-125",{"micros":185686,"calls":["start_session",{"micros":172916,"calls":["discord-api-59dffdb7f6-ww586",{"micros":161980,"calls":["get_user",{"micros":18755},"add_authorized_ip",{"micros":13343},"get_guilds",{"micros":34441},"coros_wait",{"micros":2}]}]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":5996,"calls":[]}]}]}] (Session ID: 8addd76d51bc417a16646874c2e28786).
+INFO:log:disco_bot#7210 has connected to Discord!
+WARNING:log:Emotive_murderer09#7930 has sent : !Hello
+WARNING:log:disco_bot#7210 has sent : Salut
+WARNING:log:Emotive_murderer09#7930 has sent : !Meteo paris
+INFO:discord.client:Received signal to terminate bot and event loop.
+INFO:discord.client:Cleaning up tasks.
+INFO:discord.client:Cleaning up after 1 tasks.
+INFO:discord.client:All tasks finished cancelling.
+INFO:discord.client:Closing the event loop.
+WARNING:discord.client:PyNaCl is not installed, voice will NOT be supported
+INFO:discord.client:logging in using static token
+INFO:discord.gateway:Shard ID None has sent the IDENTIFY payload.
+INFO:discord.gateway:Shard ID None has connected to Gateway: ["gateway-prd-main-w33j",{"micros":67986,"calls":["discord-sessions-blue-prd-2-22",{"micros":66679,"calls":["start_session",{"micros":51730,"calls":["discord-api-59dffdb7f6-hbkws",{"micros":47009,"calls":["get_user",{"micros":11269},"add_authorized_ip",{"micros":2646},"get_guilds",{"micros":5615},"coros_wait",{"micros":3}]}]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":14193,"calls":[]}]}]}] (Session ID: ae6fe728040dab045741bb5c77768d60).
+INFO:log:disco_bot#7210 has connected to Discord!
+WARNING:log:Emotive_murderer09#7930 has sent : !Meteo paris
+INFO:discord.client:Received signal to terminate bot and event loop.
+INFO:discord.client:Cleaning up tasks.
+INFO:discord.client:Cleaning up after 1 tasks.
+INFO:discord.client:All tasks finished cancelling.
+INFO:discord.client:Closing the event loop.
+WARNING:discord.client:PyNaCl is not installed, voice will NOT be supported
+INFO:discord.client:logging in using static token
+INFO:discord.gateway:Shard ID None has sent the IDENTIFY payload.
+INFO:discord.gateway:Shard ID None has connected to Gateway: ["gateway-prd-main-b4mb",{"micros":62027,"calls":["discord-sessions-blue-prd-2-130",{"micros":60320,"calls":["start_session",{"micros":41970,"calls":["discord-api-59dffdb7f6-2wx5q",{"micros":37133,"calls":["get_user",{"micros":7151},"add_authorized_ip",{"micros":2551},"get_guilds",{"micros":4341},"coros_wait",{"micros":2}]}]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":17745,"calls":[]}]}]}] (Session ID: 05cd6a4e45ddac6fa74b348e839151eb).
+INFO:log:disco_bot#7210 has connected to Discord!
+WARNING:log:Emotive_murderer09#7930 has sent : !Meteo paris
+WARNING:log:disco_bot#7210 has sent : [{'id': 804, 'main': 'Clouds', 'description': 'overcast clouds', 'icon': '04d'}]
+INFO:discord.client:Received signal to terminate bot and event loop.
+INFO:discord.client:Cleaning up tasks.
+INFO:discord.client:Cleaning up after 1 tasks.
+INFO:discord.client:All tasks finished cancelling.
+INFO:discord.client:Closing the event loop.
+WARNING:discord.client:PyNaCl is not installed, voice will NOT be supported
+INFO:discord.client:logging in using static token
+INFO:discord.gateway:Shard ID None has sent the IDENTIFY payload.
+INFO:discord.gateway:Shard ID None has connected to Gateway: ["gateway-prd-main-zw6d",{"micros":81842,"calls":["discord-sessions-blue-prd-2-45",{"micros":80659,"calls":["start_session",{"micros":40100,"calls":["discord-api-59dffdb7f6-6hxcw",{"micros":35732,"calls":["get_user",{"micros":7037},"add_authorized_ip",{"micros":1701},"get_guilds",{"micros":4910},"coros_wait",{"micros":2}]}]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":21490,"calls":[]}]}]}] (Session ID: 70ac04feda7cbd7b97685147f1dc3de6).
+INFO:log:disco_bot#7210 has connected to Discord!
+WARNING:log:Emotive_murderer09#7930 has sent : !Meteo marseille
+INFO:discord.client:Received signal to terminate bot and event loop.
+INFO:discord.client:Cleaning up tasks.
+INFO:discord.client:Cleaning up after 1 tasks.
+INFO:discord.client:All tasks finished cancelling.
+INFO:discord.client:Closing the event loop.
+WARNING:discord.client:PyNaCl is not installed, voice will NOT be supported
+INFO:discord.client:logging in using static token
+INFO:discord.gateway:Shard ID None has sent the IDENTIFY payload.
+INFO:discord.gateway:Shard ID None has connected to Gateway: ["gateway-prd-main-82vr",{"micros":59966,"calls":["discord-sessions-blue-prd-2-4",{"micros":58604,"calls":["start_session",{"micros":48865,"calls":["discord-api-59dffdb7f6-9hc74",{"micros":44922,"calls":["get_user",{"micros":5343},"add_authorized_ip",{"micros":2549},"get_guilds",{"micros":5583},"coros_wait",{"micros":1}]}]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":8838,"calls":[]}]}]}] (Session ID: 758e5d82ea07c434e4c8aab525f8b831).
+INFO:log:disco_bot#7210 has connected to Discord!
+WARNING:log:Emotive_murderer09#7930 has sent : !Meteo marseille
+INFO:discord.client:Received signal to terminate bot and event loop.
+INFO:discord.client:Cleaning up tasks.
+INFO:discord.client:Cleaning up after 1 tasks.
+INFO:discord.client:All tasks finished cancelling.
+INFO:discord.client:Closing the event loop.
+WARNING:discord.client:PyNaCl is not installed, voice will NOT be supported
+INFO:discord.client:logging in using static token
+INFO:discord.gateway:Shard ID None has sent the IDENTIFY payload.
+INFO:discord.gateway:Shard ID None has connected to Gateway: ["gateway-prd-main-7nsk",{"micros":76503,"calls":["discord-sessions-blue-prd-2-46",{"micros":75377,"calls":["start_session",{"micros":44633,"calls":["discord-api-59dffdb7f6-v6lsb",{"micros":37384,"calls":["get_user",{"micros":8610},"add_authorized_ip",{"micros":2680},"get_guilds",{"micros":4248},"coros_wait",{"micros":1}]}]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":12728,"calls":[]}]}]}] (Session ID: 076a398fa8f696be15d83288d12897e0).
+INFO:log:disco_bot#7210 has connected to Discord!
+WARNING:log:Emotive_murderer09#7930 has sent : !Meteo marseille
+WARNING:log:disco_bot#7210 has sent : overcast clouds
+INFO:discord.client:Received signal to terminate bot and event loop.
+INFO:discord.client:Cleaning up tasks.
+INFO:discord.client:Cleaning up after 1 tasks.
+INFO:discord.client:All tasks finished cancelling.
+INFO:discord.client:Closing the event loop.
+WARNING:discord.client:PyNaCl is not installed, voice will NOT be supported
+INFO:discord.client:logging in using static token
+INFO:discord.gateway:Shard ID None has sent the IDENTIFY payload.
+INFO:discord.gateway:Shard ID None has connected to Gateway: ["gateway-prd-main-kr64",{"micros":118463,"calls":["discord-sessions-blue-prd-2-43",{"micros":116609,"calls":["start_session",{"micros":51949,"calls":["discord-api-59dffdb7f6-h799d",{"micros":45847,"calls":["get_user",{"micros":7753},"add_authorized_ip",{"micros":2753},"get_guilds",{"micros":6632},"coros_wait",{"micros":3}]}]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":49395,"calls":[]}]}]}] (Session ID: 66a458dc0a239e38b6cdeb2097f99b64).
+INFO:log:disco_bot#7210 has connected to Discord!
+WARNING:log:Emotive_murderer09#7930 has sent : !Meteo marseille
+INFO:discord.client:Received signal to terminate bot and event loop.
+INFO:discord.client:Cleaning up tasks.
+INFO:discord.client:Cleaning up after 1 tasks.
+INFO:discord.client:All tasks finished cancelling.
+INFO:discord.client:Closing the event loop.
+WARNING:discord.client:PyNaCl is not installed, voice will NOT be supported
+INFO:discord.client:logging in using static token
+INFO:discord.gateway:Shard ID None has sent the IDENTIFY payload.
+INFO:discord.gateway:Shard ID None has connected to Gateway: ["gateway-prd-main-sxpl",{"micros":217078,"calls":["discord-sessions-blue-prd-2-123",{"micros":215755,"calls":["start_session",{"micros":194728,"calls":["discord-api-59dffdb7f6-vb6xm",{"micros":176930,"calls":["get_user",{"micros":57443},"add_authorized_ip",{"micros":3714},"get_guilds",{"micros":31980},"coros_wait",{"micros":2}]}]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":1,"calls":[]}]}]}] (Session ID: 6cbbc2c2ebf946b26165e450a3c46755).
+INFO:log:disco_bot#7210 has connected to Discord!
+WARNING:log:Emotive_murderer09#7930 has sent : !Meteo marseille
+WARNING:log:Emotive_murderer09#7930 has sent : !Meteo marseille
+INFO:discord.client:Received signal to terminate bot and event loop.
+INFO:discord.client:Cleaning up tasks.
+INFO:discord.client:Cleaning up after 1 tasks.
+INFO:discord.client:All tasks finished cancelling.
+INFO:discord.client:Closing the event loop.
+WARNING:discord.client:PyNaCl is not installed, voice will NOT be supported
+INFO:discord.client:logging in using static token
+INFO:discord.gateway:Shard ID None has sent the IDENTIFY payload.
+INFO:discord.gateway:Shard ID None has connected to Gateway: ["gateway-prd-main-t8ch",{"micros":94599,"calls":["discord-sessions-blue-prd-2-103",{"micros":93012,"calls":["start_session",{"micros":43032,"calls":["discord-api-59dffdb7f6-2f254",{"micros":36381,"calls":["get_user",{"micros":8414},"add_authorized_ip",{"micros":2033},"get_guilds",{"micros":4824},"coros_wait",{"micros":2}]}]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":31607,"calls":[]}]}]}] (Session ID: 1953302573f1e8ac37936c688fdbc376).
+INFO:log:disco_bot#7210 has connected to Discord!
+WARNING:log:Emotive_murderer09#7930 has sent : !Meteo marseille
+INFO:discord.client:Received signal to terminate bot and event loop.
+INFO:discord.client:Cleaning up tasks.
+INFO:discord.client:Cleaning up after 1 tasks.
+INFO:discord.client:All tasks finished cancelling.
+INFO:discord.client:Closing the event loop.
+WARNING:discord.client:PyNaCl is not installed, voice will NOT be supported
+INFO:discord.client:logging in using static token
+INFO:discord.gateway:Shard ID None has sent the IDENTIFY payload.
+INFO:discord.gateway:Shard ID None has connected to Gateway: ["gateway-prd-main-1vzv",{"micros":93698,"calls":["discord-sessions-blue-prd-2-91",{"micros":84731,"calls":["start_session",{"micros":54631,"calls":["discord-api-59dffdb7f6-hqjf9",{"micros":43017,"calls":["get_user",{"micros":8982},"add_authorized_ip",{"micros":2984},"get_guilds",{"micros":7472},"coros_wait",{"micros":2}]}]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":10173,"calls":[]}]}]}] (Session ID: a354f849e317ab75401dcc90a8177387).
+INFO:log:disco_bot#7210 has connected to Discord!
+WARNING:log:Emotive_murderer09#7930 has sent : !Meteo marseille
+INFO:discord.client:Received signal to terminate bot and event loop.
+INFO:discord.client:Cleaning up tasks.
+INFO:discord.client:Cleaning up after 1 tasks.
+INFO:discord.client:All tasks finished cancelling.
+INFO:discord.client:Closing the event loop.
+WARNING:discord.client:PyNaCl is not installed, voice will NOT be supported
+INFO:discord.client:logging in using static token
+INFO:discord.gateway:Shard ID None has sent the IDENTIFY payload.
+INFO:discord.gateway:Shard ID None has connected to Gateway: ["gateway-prd-main-wql2",{"micros":124746,"calls":["discord-sessions-blue-prd-2-89",{"micros":123307,"calls":["start_session",{"micros":115460,"calls":["discord-api-59dffdb7f6-c7ztb",{"micros":105067,"calls":["get_user",{"micros":30085},"add_authorized_ip",{"micros":4553},"get_guilds",{"micros":13619},"coros_wait",{"micros":3}]}]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":7225,"calls":[]}]}]}] (Session ID: 9b827a10508547db021da67cef3e7cbb).
+INFO:log:disco_bot#7210 has connected to Discord!
+WARNING:log:Emotive_murderer09#7930 has sent : !Meteo marseille
+WARNING:log:disco_bot#7210 has sent : overcast clouds
+WARNING:log:disco_bot#7210 has sent : 
+WARNING:log:Emotive_murderer09#7930 has sent : !Meteo paris
+WARNING:log:disco_bot#7210 has sent : overcast clouds
+WARNING:log:disco_bot#7210 has sent : 
+WARNING:log:Emotive_murderer09#7930 has sent : !Meteo cayenne
+WARNING:log:disco_bot#7210 has sent : broken clouds
+WARNING:log:disco_bot#7210 has sent : 
+WARNING:log:Emotive_murderer09#7930 has sent : !Meteo nice
+WARNING:log:disco_bot#7210 has sent : overcast clouds
+WARNING:log:disco_bot#7210 has sent : 
+WARNING:log:Emotive_murderer09#7930 has sent : !Meteo romainville
+INFO:discord.client:Received signal to terminate bot and event loop.
+INFO:discord.client:Cleaning up tasks.
+INFO:discord.client:Cleaning up after 1 tasks.
+INFO:discord.client:All tasks finished cancelling.
+INFO:discord.client:Closing the event loop.
+WARNING:discord.client:PyNaCl is not installed, voice will NOT be supported
+INFO:discord.client:logging in using static token
+INFO:discord.gateway:Shard ID None has sent the IDENTIFY payload.
+INFO:discord.gateway:Shard ID None has connected to Gateway: ["gateway-prd-main-969p",{"micros":58728,"calls":["discord-sessions-blue-prd-2-104",{"micros":57471,"calls":["start_session",{"micros":41185,"calls":["discord-api-59dffdb7f6-tct28",{"micros":37649,"calls":["get_user",{"micros":5614},"add_authorized_ip",{"micros":2206},"get_guilds",{"micros":5057},"coros_wait",{"micros":1}]}]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":12201,"calls":[]}]}]}] (Session ID: e411fd1b95f26dc011fb90e7cd61f3cc).
+INFO:log:disco_bot#7210 has connected to Discord!
+WARNING:log:Emotive_murderer09#7930 has sent : !Game
+WARNING:log:disco_bot#7210 has sent : Voici le jeu du juste prix, le bot discord va genere l'image d'un produit votre but sera de trouver son prix (nombre entier) vous avez 5 essai
+INFO:discord.client:Received signal to terminate bot and event loop.
+INFO:discord.client:Cleaning up tasks.
+INFO:discord.client:Cleaning up after 1 tasks.
+INFO:discord.client:All tasks finished cancelling.
+INFO:discord.client:Closing the event loop.
+WARNING:discord.client:PyNaCl is not installed, voice will NOT be supported
+INFO:discord.client:logging in using static token
+INFO:discord.gateway:Shard ID None has sent the IDENTIFY payload.
+INFO:discord.gateway:Shard ID None has connected to Gateway: ["gateway-prd-main-c224",{"micros":81637,"calls":["discord-sessions-blue-prd-2-56",{"micros":74808,"calls":["start_session",{"micros":50582,"calls":["discord-api-59dffdb7f6-gg29c",{"micros":45783,"calls":["get_user",{"micros":15817},"add_authorized_ip",{"micros":2663},"get_guilds",{"micros":5951},"coros_wait",{"micros":34}]}]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":14693,"calls":[]}]}]}] (Session ID: c8e38823d0f0aac92386d0868e4a50b1).
+INFO:log:disco_bot#7210 has connected to Discord!
+WARNING:log:Emotive_murderer09#7930 has sent : !Game
+WARNING:log:disco_bot#7210 has sent : Voici le jeu du juste prix, le bot discord va genere l'image d'un produit votre but sera de trouver son prix (nombre entier) vous avez 5 essai
+WARNING:log:Emotive_murderer09#7930 has sent : !Game
+WARNING:log:disco_bot#7210 has sent : Voici le jeu du juste prix, le bot discord va genere l'image d'un produit votre but sera de trouver son prix (nombre entier) vous avez 5 essai
+INFO:discord.client:Received signal to terminate bot and event loop.
+INFO:discord.client:Cleaning up tasks.
+INFO:discord.client:Cleaning up after 1 tasks.
+INFO:discord.client:All tasks finished cancelling.
+INFO:discord.client:Closing the event loop.
+WARNING:discord.client:PyNaCl is not installed, voice will NOT be supported
+INFO:discord.client:logging in using static token
+INFO:discord.gateway:Shard ID None has sent the IDENTIFY payload.
+INFO:discord.gateway:Shard ID None has connected to Gateway: ["gateway-prd-main-9vtf",{"micros":127357,"calls":["discord-sessions-blue-prd-2-151",{"micros":125413,"calls":["start_session",{"micros":107872,"calls":["discord-api-59dffdb7f6-hbtnv",{"micros":97983,"calls":["get_user",{"micros":25090},"add_authorized_ip",{"micros":19301},"get_guilds",{"micros":15301},"coros_wait",{"micros":2}]}]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":1,"calls":[]}]}]}] (Session ID: fffcf73535704015adfe4e236f401cf5).
+INFO:log:disco_bot#7210 has connected to Discord!
+WARNING:log:Emotive_murderer09#7930 has sent : !Game
+WARNING:log:disco_bot#7210 has sent : Voici le jeu du juste prix, le bot discord va genere l'image d'un produit votre but sera de trouver son prix (nombre entier) vous avez 5 essai
+WARNING:log:Emotive_murderer09#7930 has sent : !Game
+WARNING:log:disco_bot#7210 has sent : Voici le jeu du juste prix, le bot discord va genere l'image d'un produit votre but sera de trouver son prix (nombre entier) vous avez 5 essai
+WARNING:log:Emotive_murderer09#7930 has sent : !Game
+WARNING:log:disco_bot#7210 has sent : Voici le jeu du juste prix, le bot discord va genere l'image d'un produit votre but sera de trouver son prix (nombre entier) vous avez 5 essai
+WARNING:log:Emotive_murderer09#7930 has sent : !Game
+WARNING:log:disco_bot#7210 has sent : Voici le jeu du juste prix, le bot discord va genere l'image d'un produit votre but sera de trouver son prix (nombre entier) vous avez 5 essai
+INFO:discord.client:Received signal to terminate bot and event loop.
+INFO:discord.client:Cleaning up tasks.
+INFO:discord.client:Cleaning up after 1 tasks.
+INFO:discord.client:All tasks finished cancelling.
+INFO:discord.client:Closing the event loop.
+WARNING:discord.client:PyNaCl is not installed, voice will NOT be supported
+INFO:discord.client:logging in using static token
+INFO:discord.gateway:Shard ID None has sent the IDENTIFY payload.
+INFO:discord.gateway:Shard ID None has connected to Gateway: ["gateway-prd-main-mbvq",{"micros":55780,"calls":["discord-sessions-blue-prd-2-25",{"micros":54009,"calls":["start_session",{"micros":39084,"calls":["discord-api-59dffdb7f6-fhspg",{"micros":35602,"calls":["get_user",{"micros":10429},"add_authorized_ip",{"micros":1519},"get_guilds",{"micros":3213},"coros_wait",{"micros":1}]}]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":14227,"calls":[]}]}]}] (Session ID: 38f3f2f31627f750eade184b39d38151).
+INFO:log:disco_bot#7210 has connected to Discord!
+WARNING:log:Emotive_murderer09#7930 has sent : !Game
+WARNING:log:disco_bot#7210 has sent : Voici le jeu du juste prix, le bot discord va genere l'image d'un produit votre but sera de trouver son prix (nombre entier) vous avez 5 essai
+INFO:discord.client:Received signal to terminate bot and event loop.
+INFO:discord.client:Cleaning up tasks.
+INFO:discord.client:Cleaning up after 1 tasks.
+INFO:discord.client:All tasks finished cancelling.
+INFO:discord.client:Closing the event loop.
+WARNING:discord.client:PyNaCl is not installed, voice will NOT be supported
+INFO:discord.client:logging in using static token
+INFO:discord.gateway:Shard ID None has sent the IDENTIFY payload.
+INFO:discord.gateway:Shard ID None has connected to Gateway: ["gateway-prd-main-xjkr",{"micros":98474,"calls":["discord-sessions-blue-prd-2-57",{"micros":97178,"calls":["start_session",{"micros":47147,"calls":["discord-api-59dffdb7f6-v4n85",{"micros":42923,"calls":["get_user",{"micros":6528},"add_authorized_ip",{"micros":2647},"get_guilds",{"micros":4832},"coros_wait",{"micros":1}]}]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":29649,"calls":[]}]}]}] (Session ID: 2849befdee526e182afca7bda743d0fb).
+INFO:log:disco_bot#7210 has connected to Discord!
+WARNING:log:Emotive_murderer09#7930 has sent : !Game
+WARNING:log:disco_bot#7210 has sent : Voici le jeu du juste prix, le bot discord va genere l'image d'un produit votre but sera de trouver son prix (nombre entier) vous avez 5 essai
+INFO:discord.client:Received signal to terminate bot and event loop.
+INFO:discord.client:Cleaning up tasks.
+INFO:discord.client:Cleaning up after 1 tasks.
+INFO:discord.client:All tasks finished cancelling.
+INFO:discord.client:Closing the event loop.
+WARNING:discord.client:PyNaCl is not installed, voice will NOT be supported
+INFO:discord.client:logging in using static token
+INFO:discord.gateway:Shard ID None has sent the IDENTIFY payload.
+INFO:discord.gateway:Shard ID None has connected to Gateway: ["gateway-prd-main-1vzv",{"micros":73615,"calls":["discord-sessions-blue-prd-2-138",{"micros":72209,"calls":["start_session",{"micros":53606,"calls":["discord-api-59dffdb7f6-tnnsr",{"micros":47024,"calls":["get_user",{"micros":10785},"add_authorized_ip",{"micros":2774},"get_guilds",{"micros":8631},"coros_wait",{"micros":2}]}]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":12210,"calls":[]}]}]}] (Session ID: 23070f7f8095dfa739ca0c6b7b26f3aa).
+INFO:log:disco_bot#7210 has connected to Discord!
+WARNING:log:Emotive_murderer09#7930 has sent : !Game
+WARNING:log:disco_bot#7210 has sent : Voici le jeu du juste prix, le bot discord va genere l'image d'un produit votre but sera de trouver son prix (nombre entier) vous avez 5 essai
+INFO:discord.client:Received signal to terminate bot and event loop.
+INFO:discord.client:Cleaning up tasks.
+INFO:discord.client:Cleaning up after 1 tasks.
+INFO:discord.client:All tasks finished cancelling.
+INFO:discord.client:Closing the event loop.
+WARNING:discord.client:PyNaCl is not installed, voice will NOT be supported
+INFO:discord.client:logging in using static token
+INFO:discord.gateway:Shard ID None has sent the IDENTIFY payload.
+INFO:discord.gateway:Shard ID None has connected to Gateway: ["gateway-prd-main-36sf",{"micros":84640,"calls":["discord-sessions-blue-prd-2-138",{"micros":82464,"calls":["start_session",{"micros":37628,"calls":["discord-api-59dffdb7f6-9nfp4",{"micros":33671,"calls":["get_user",{"micros":5458},"add_authorized_ip",{"micros":2783},"get_guilds",{"micros":5324},"coros_wait",{"micros":2}]}]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":22026,"calls":[]}]}]}] (Session ID: c63bf44a9229bead4b7288b39274d558).
+INFO:log:disco_bot#7210 has connected to Discord!
+WARNING:log:Emotive_murderer09#7930 has sent : !Game
+WARNING:log:disco_bot#7210 has sent : Voici le jeu du juste prix, le bot discord va genere l'image d'un produit votre but sera de trouver son prix (nombre entier) vous avez 5 essai
+INFO:discord.client:Received signal to terminate bot and event loop.
+INFO:discord.client:Cleaning up tasks.
+INFO:discord.client:Cleaning up after 1 tasks.
+INFO:discord.client:All tasks finished cancelling.
+INFO:discord.client:Closing the event loop.
+WARNING:discord.client:PyNaCl is not installed, voice will NOT be supported
+INFO:discord.client:logging in using static token
+INFO:discord.gateway:Shard ID None has sent the IDENTIFY payload.
+INFO:discord.gateway:Shard ID None has connected to Gateway: ["gateway-prd-main-td5b",{"micros":66291,"calls":["discord-sessions-blue-prd-2-86",{"micros":64619,"calls":["start_session",{"micros":36233,"calls":["discord-api-59dffdb7f6-l4prd",{"micros":30533,"calls":["get_user",{"micros":7534},"add_authorized_ip",{"micros":1436},"get_guilds",{"micros":3377},"coros_wait",{"micros":2}]}]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":12050,"calls":[]}]}]}] (Session ID: 9fad875748924a43bdbe854b37e838fd).
+INFO:log:disco_bot#7210 has connected to Discord!
+WARNING:log:Emotive_murderer09#7930 has sent : !Game
+WARNING:log:disco_bot#7210 has sent : Voici le jeu du juste prix, le bot discord va genere l'image d'un produit votre but sera de trouver son prix (nombre entier) vous avez 5 essai
+INFO:discord.client:Received signal to terminate bot and event loop.
+INFO:discord.client:Cleaning up tasks.
+INFO:discord.client:Cleaning up after 1 tasks.
+INFO:discord.client:All tasks finished cancelling.
+INFO:discord.client:Closing the event loop.
+WARNING:discord.client:PyNaCl is not installed, voice will NOT be supported
+INFO:discord.client:logging in using static token
+INFO:discord.gateway:Shard ID None has sent the IDENTIFY payload.
+INFO:discord.gateway:Shard ID None has connected to Gateway: ["gateway-prd-main-v4jj",{"micros":104436,"calls":["discord-sessions-blue-prd-2-139",{"micros":93379,"calls":["start_session",{"micros":67730,"calls":["discord-api-59dffdb7f6-zvmm4",{"micros":61896,"calls":["get_user",{"micros":8424},"add_authorized_ip",{"micros":3251},"get_guilds",{"micros":10913},"coros_wait",{"micros":1}]}]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":13315,"calls":[]}]}]}] (Session ID: 00e7d6630c5c66a2283008ba0ebd7135).
+INFO:log:disco_bot#7210 has connected to Discord!
+WARNING:log:Emotive_murderer09#7930 has sent : !Game
+WARNING:log:disco_bot#7210 has sent : Voici le jeu du juste prix, le bot discord va genere l'image d'un produit votre but sera de trouver son prix (nombre entier) vous avez 5 essai
+INFO:discord.client:Received signal to terminate bot and event loop.
+INFO:discord.client:Cleaning up tasks.
+INFO:discord.client:Cleaning up after 1 tasks.
+INFO:discord.client:All tasks finished cancelling.
+INFO:discord.client:Closing the event loop.
+WARNING:discord.client:PyNaCl is not installed, voice will NOT be supported
+INFO:discord.client:logging in using static token
+INFO:discord.gateway:Shard ID None has sent the IDENTIFY payload.
+INFO:discord.gateway:Shard ID None has connected to Gateway: ["gateway-prd-main-td5b",{"micros":121707,"calls":["discord-sessions-blue-prd-2-156",{"micros":119879,"calls":["start_session",{"micros":100607,"calls":["discord-api-59dffdb7f6-kgpkr",{"micros":94638,"calls":["get_user",{"micros":16275},"add_authorized_ip",{"micros":9261},"get_guilds",{"micros":10833},"coros_wait",{"micros":1}]}]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":9173,"calls":[]}]}]}] (Session ID: a9c7e2df0167279e727e44af36899c52).
+INFO:log:disco_bot#7210 has connected to Discord!
+WARNING:log:Emotive_murderer09#7930 has sent : !Game
+WARNING:log:disco_bot#7210 has sent : Voici le jeu du juste prix, le bot discord va genere l'image d'un produit votre but sera de trouver son prix (nombre entier) vous avez 5 essai
+WARNING:log:disco_bot#7210 has sent : Quelle est le prix de cet objet
+WARNING:log:disco_bot#7210 has sent : 
+WARNING:log:Emotive_murderer09#7930 has sent : !Game
+WARNING:log:disco_bot#7210 has sent : Voici le jeu du juste prix, le bot discord va genere l'image d'un produit votre but sera de trouver son prix (nombre entier) vous avez 5 essai
+WARNING:log:disco_bot#7210 has sent : Quelle est le prix de cet objet
+WARNING:log:disco_bot#7210 has sent : 
+WARNING:log:Emotive_murderer09#7930 has sent : !Game
+WARNING:log:disco_bot#7210 has sent : Voici le jeu du juste prix, le bot discord va genere l'image d'un produit votre but sera de trouver son prix (nombre entier) vous avez 5 essai
+WARNING:log:disco_bot#7210 has sent : Quelle est le prix de cet objet
+WARNING:log:disco_bot#7210 has sent : 
+INFO:discord.client:Received signal to terminate bot and event loop.
+INFO:discord.client:Cleaning up tasks.
+INFO:discord.client:Cleaning up after 1 tasks.
+INFO:discord.client:All tasks finished cancelling.
+INFO:discord.client:Closing the event loop.
+WARNING:discord.client:PyNaCl is not installed, voice will NOT be supported
+INFO:discord.client:logging in using static token
+INFO:discord.gateway:Shard ID None has sent the IDENTIFY payload.
+INFO:discord.gateway:Shard ID None has connected to Gateway: ["gateway-prd-main-gs9q",{"micros":64024,"calls":["discord-sessions-blue-prd-2-101",{"micros":60918,"calls":["start_session",{"micros":43601,"calls":["discord-api-59dffdb7f6-h7zjr",{"micros":39600,"calls":["get_user",{"micros":8857},"add_authorized_ip",{"micros":1624},"get_guilds",{"micros":5329},"coros_wait",{"micros":2}]}]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":9434,"calls":[]}]}]}] (Session ID: 2186384188929335cee807d3b6c600e3).
+INFO:log:disco_bot#7210 has connected to Discord!
+WARNING:log:Emotive_murderer09#7930 has sent : !Game
+WARNING:log:disco_bot#7210 has sent : Voici le jeu du juste prix, le bot discord va genere l'image d'un produit votre but sera de trouver son prix (nombre entier) vous avez 5 essai
+WARNING:log:disco_bot#7210 has sent : Quelle est le prix de cet objet
+WARNING:log:disco_bot#7210 has sent : 
+WARNING:log:Emotive_murderer09#7930 has sent : 26
+INFO:discord.client:Received signal to terminate bot and event loop.
+INFO:discord.client:Cleaning up tasks.
+INFO:discord.client:Cleaning up after 1 tasks.
+INFO:discord.client:All tasks finished cancelling.
+INFO:discord.client:Closing the event loop.
+WARNING:discord.client:PyNaCl is not installed, voice will NOT be supported
+INFO:discord.client:logging in using static token
+INFO:discord.gateway:Shard ID None has sent the IDENTIFY payload.
+INFO:discord.gateway:Shard ID None has connected to Gateway: ["gateway-prd-main-wmwk",{"micros":81492,"calls":["discord-sessions-blue-prd-2-112",{"micros":79729,"calls":["start_session",{"micros":68554,"calls":["discord-api-59dffdb7f6-grqwl",{"micros":64232,"calls":["get_user",{"micros":5766},"add_authorized_ip",{"micros":6060},"get_guilds",{"micros":12988},"coros_wait",{"micros":1}]}]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":10337,"calls":[]}]}]}] (Session ID: 9e5c27968936c8f5a85f5cedab96808c).
+INFO:log:disco_bot#7210 has connected to Discord!
+WARNING:log:Emotive_murderer09#7930 has sent : !Nombre
+WARNING:log:disco_bot#7210 has sent : 9
+WARNING:log:Emotive_murderer09#7930 has sent : !Help
+WARNING:log:disco_bot#7210 has sent : !Hello, !Méteo, !Telegram, !Nombre, !Game
+WARNING:log:disco_bot#7210 has sent : !Hello : Pour avoir un salut , !Meteo +[Ville] : pour avoir la meteo d'eune ville accompagné d'un icone du temps , !Telegram : pour recevoir le lien du télégram en message privé , !Nombre : Pour generer un nombre aleatoire compris entre 0 et 100, !Game : pour jouer au jeux du juste prix imagé
+WARNING:log:Emotive_murderer09#7930 has sent : !Telegram
+WARNING:log:disco_bot#7210 has sent : nous vous avons envoyer le lien en privée
+WARNING:log:disco_bot#7210 has sent : https://telegram.me/theprogrammingart
+WARNING:log:Emotive_murderer09#7930 has sent : !Nombre
+WARNING:log:disco_bot#7210 has sent : 61
+WARNING:log:Emotive_murderer09#7930 has sent : !Meteo paris
+WARNING:log:disco_bot#7210 has sent : clear sky
+WARNING:log:disco_bot#7210 has sent : 
+WARNING:log:Emotive_murderer09#7930 has sent : !Hello
+WARNING:log:disco_bot#7210 has sent : Salut
+WARNING:log:Emotive_murderer09#7930 has sent : !Meteo marseille
+WARNING:log:disco_bot#7210 has sent : broken clouds
+WARNING:log:disco_bot#7210 has sent : 
+WARNING:log:Emotive_murderer09#7930 has sent : !Game
+WARNING:log:disco_bot#7210 has sent : Voici le jeu du juste prix, le bot discord va genere l'image d'un produit votre but sera de trouver son prix (nombre entier) vous avez 5 essai
+WARNING:log:disco_bot#7210 has sent : Quelle est le prix de cet objet
+WARNING:log:disco_bot#7210 has sent : 
+INFO:discord.client:Received signal to terminate bot and event loop.
+INFO:discord.client:Cleaning up tasks.
+INFO:discord.client:Cleaning up after 1 tasks.
+INFO:discord.client:All tasks finished cancelling.
+INFO:discord.client:Closing the event loop.
+WARNING:discord.client:PyNaCl is not installed, voice will NOT be supported
+INFO:discord.client:logging in using static token
+INFO:discord.gateway:Shard ID None has sent the IDENTIFY payload.
+INFO:discord.gateway:Shard ID None has connected to Gateway: ["gateway-prd-main-j80h",{"micros":81801,"calls":["discord-sessions-blue-prd-2-17",{"micros":79633,"calls":["start_session",{"micros":52912,"calls":["discord-api-59dffdb7f6-6xql5",{"micros":47780,"calls":["get_user",{"micros":8264},"add_authorized_ip",{"micros":3486},"get_guilds",{"micros":8528},"coros_wait",{"micros":2}]}]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":17027,"calls":[]}]}]}] (Session ID: 00bed833aa78501a1b6c8beef0650df6).
+INFO:log:disco_bot#7210 has connected to Discord!
+WARNING:log:Emotive_murderer09#7930 has sent : !Game
+WARNING:log:disco_bot#7210 has sent : Voici le jeu du juste prix, le bot discord va genere l'image d'un produit votre but sera de trouver son prix (nombre entier) vous avez 5 essai
+WARNING:log:Emotive_murderer09#7930 has sent : !Game
+WARNING:log:disco_bot#7210 has sent : Voici le jeu du juste prix, le bot discord va genere l'image d'un produit votre but sera de trouver son prix (nombre entier) vous avez 5 essai
+WARNING:log:disco_bot#7210 has sent : Quelle est le prix de cet objet
+WARNING:log:disco_bot#7210 has sent : 
+WARNING:log:disco_bot#7210 has sent : vous avez été trop long, repondez plus vite la prochaine fois
+WARNING:log:Emotive_murderer09#7930 has sent : 114
+INFO:discord.client:Received signal to terminate bot and event loop.
+INFO:discord.client:Cleaning up tasks.
+INFO:discord.client:Cleaning up after 1 tasks.
+INFO:discord.client:All tasks finished cancelling.
+INFO:discord.client:Closing the event loop.
+WARNING:discord.client:PyNaCl is not installed, voice will NOT be supported
+INFO:discord.client:logging in using static token
+INFO:discord.gateway:Shard ID None has sent the IDENTIFY payload.
+INFO:discord.gateway:Shard ID None has connected to Gateway: ["gateway-prd-main-vvpl",{"micros":60257,"calls":["discord-sessions-blue-prd-2-10",{"micros":58898,"calls":["start_session",{"micros":46955,"calls":["discord-api-59dffdb7f6-267rm",{"micros":40742,"calls":["get_user",{"micros":8538},"add_authorized_ip",{"micros":2559},"get_guilds",{"micros":4971},"coros_wait",{"micros":1}]}]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":10104,"calls":[]}]}]}] (Session ID: 09dc577193de11943c33fecf48b2e749).
+INFO:log:disco_bot#7210 has connected to Discord!
+WARNING:log:Emotive_murderer09#7930 has sent : !Game
+WARNING:log:disco_bot#7210 has sent : Voici le jeu du juste prix, le bot discord va genere l'image d'un produit votre but sera de trouver son prix (nombre entier) vous avez 5 essai
+WARNING:log:disco_bot#7210 has sent : Quelle est le prix de cet objet
+WARNING:log:disco_bot#7210 has sent : 
+WARNING:log:disco_bot#7210 has sent : vous avez été trop long, repondez plus vite la prochaine fois
+INFO:discord.client:Received signal to terminate bot and event loop.
+INFO:discord.client:Cleaning up tasks.
+INFO:discord.client:Cleaning up after 1 tasks.
+INFO:discord.client:All tasks finished cancelling.
+INFO:discord.client:Closing the event loop.
+WARNING:discord.client:PyNaCl is not installed, voice will NOT be supported
+INFO:discord.client:logging in using static token
+INFO:discord.gateway:Shard ID None has sent the IDENTIFY payload.
+INFO:discord.gateway:Shard ID None has connected to Gateway: ["gateway-prd-main-shgl",{"micros":120946,"calls":["discord-sessions-blue-prd-2-46",{"micros":117776,"calls":["start_session",{"micros":109385,"calls":["discord-api-59dffdb7f6-ghmvw",{"micros":100211,"calls":["get_user",{"micros":33194},"add_authorized_ip",{"micros":8845},"get_guilds",{"micros":12017},"coros_wait",{"micros":2}]}]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":7549,"calls":[]}]}]}] (Session ID: 650979e42443eb97c7e99cd4dcc5be28).
+INFO:log:disco_bot#7210 has connected to Discord!
+INFO:discord.client:Received signal to terminate bot and event loop.
+INFO:discord.client:Cleaning up tasks.
+INFO:discord.client:Cleaning up after 1 tasks.
+INFO:discord.client:All tasks finished cancelling.
+INFO:discord.client:Closing the event loop.
+WARNING:discord.client:PyNaCl is not installed, voice will NOT be supported
+INFO:discord.client:logging in using static token
+INFO:discord.gateway:Shard ID None has sent the IDENTIFY payload.
+INFO:discord.gateway:Shard ID None has connected to Gateway: ["gateway-prd-main-3hwf",{"micros":110844,"calls":["discord-sessions-blue-prd-2-108",{"micros":99693,"calls":["start_session",{"micros":63248,"calls":["discord-api-59dffdb7f6-9pkfw",{"micros":58672,"calls":["get_user",{"micros":7663},"add_authorized_ip",{"micros":2762},"get_guilds",{"micros":8946},"coros_wait",{"micros":2}]}]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":25646,"calls":[]}]}]}] (Session ID: ce8051465ee737e5332791702f868a72).
+INFO:log:disco_bot#7210 has connected to Discord!
+WARNING:log:Emotive_murderer09#7930 has sent : !Game
+WARNING:log:disco_bot#7210 has sent : Voici le jeu du juste prix, le bot discord va genere l'image d'un produit votre but sera de trouver son prix (nombre entier) vous avez 5 essai
+WARNING:log:disco_bot#7210 has sent : Quelle est le prix de cet objet
+WARNING:log:disco_bot#7210 has sent : 
+WARNING:log:disco_bot#7210 has sent : vous avez été trop long, repondez plus vite la prochaine fois
+WARNING:log:Emotive_murderer09#7930 has sent : 10
+WARNING:log:Emotive_murderer09#7930 has sent : !Game
+WARNING:log:disco_bot#7210 has sent : Voici le jeu du juste prix, le bot discord va genere l'image d'un produit votre but sera de trouver son prix (nombre entier) vous avez 5 essai
+WARNING:log:disco_bot#7210 has sent : Quelle est le prix de cet objet
+WARNING:log:Emotive_murderer09#7930 has sent : 10
+WARNING:log:disco_bot#7210 has sent : 
+WARNING:log:disco_bot#7210 has sent : vous avez été trop long, repondez plus vite la prochaine fois
+WARNING:log:Emotive_murderer09#7930 has sent : !meteo port-au-princce
+WARNING:log:Emotive_murderer09#7930 has sent : !Meteo port-au-prince
+WARNING:log:disco_bot#7210 has sent : few clouds
+WARNING:log:disco_bot#7210 has sent : 
+INFO:discord.client:Received signal to terminate bot and event loop.
+INFO:discord.client:Cleaning up tasks.
+INFO:discord.client:Cleaning up after 1 tasks.
+INFO:discord.client:All tasks finished cancelling.
+INFO:discord.client:Closing the event loop.
+WARNING:discord.client:PyNaCl is not installed, voice will NOT be supported
+INFO:discord.client:logging in using static token
+INFO:discord.gateway:Shard ID None has sent the IDENTIFY payload.
+INFO:discord.gateway:Shard ID None has connected to Gateway: ["gateway-prd-main-f6j7",{"micros":158615,"calls":["discord-sessions-blue-prd-2-126",{"micros":156526,"calls":["start_session",{"micros":132223,"calls":["discord-api-59dffdb7f6-gdn8b",{"micros":119269,"calls":["get_user",{"micros":30251},"add_authorized_ip",{"micros":5583},"get_guilds",{"micros":11902},"coros_wait",{"micros":2}]}]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":21131,"calls":[]}]}]}] (Session ID: 06ecd0dc698129b481e1c40a021fd0ba).
+INFO:log:disco_bot#7210 has connected to Discord!
+WARNING:log:Emotive_murderer09#7930 has sent : !Image
+WARNING:log:disco_bot#7210 has sent : 
+WARNING:log:Emotive_murderer09#7930 has sent : !Image
+WARNING:log:disco_bot#7210 has sent : 
+INFO:discord.client:Received signal to terminate bot and event loop.
+INFO:discord.client:Cleaning up tasks.
+INFO:discord.client:Cleaning up after 1 tasks.
+INFO:discord.client:All tasks finished cancelling.
+INFO:discord.client:Closing the event loop.
